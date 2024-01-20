@@ -5,11 +5,11 @@ Nickname on GitHub: Bl4ckS1lence
 
 Age: 17
 
-Hobbis: Playing games, learning English and Astronomy, Workout
+Hobbis: Playing games, Learning English and Astronomy, Workout
 
 School: *Etec de Araçatuba*
 
-Abilities: Fast learn, memorization and good english
+Abilities: Quick Learning, Memorization and Good English
 
 ### My Dreams:
 
