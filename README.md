@@ -1,17 +1,17 @@
 # Nícolas Monteiro Coulter de Almeida
 
 ## My Description:
-Nickname on GitHub: Bl4ckS1lence
+**Nickname on GitHub:** Bl4ckS1lence
 
-Age: 17
+**Age: 17**
 
-Lives in: Brazil, Araçatuba
+**Lives in:** Brazil, Araçatuba
 
-Hobbies: Playing games, Learning English and Astronomy, I go to the gym
+**Hobbies:** Playing games, Learning English and Astronomy, I go to the gym
 
-School: *Etec de Araçatuba*
+**School:** *Etec de Araçatuba*
 
-Abilities: Quick Learning, Good Memorization and Good English
+**Abilities:** Quick Learning, Good Memorization and Good English
 
 ## My Dreams:
 
