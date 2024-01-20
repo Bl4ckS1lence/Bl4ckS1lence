@@ -3,7 +3,7 @@
 ## My Description:
 **Nickname on GitHub:** Bl4ckS1lence
 
-**Age: 17**
+**Age:** 17
 
 **Lives in:** Brazil, Araçatuba
 
@@ -19,4 +19,4 @@ Trying to become an military, from Agulhas Negras, or to know more about the Uni
 
 ## Social Medias:
 
-Youtube: https://www.youtube.com/@mr.v0id710
+*Youtube:* https://www.youtube.com/@mr.v0id710
