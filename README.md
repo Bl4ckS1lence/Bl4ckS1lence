@@ -5,6 +5,8 @@ Nickname on GitHub: Bl4ckS1lence
 
 Age: 17
 
+Lives in: Brazil, Araçatuba
+
 Hobbies: Playing games, Learning English and Astronomy, Workout
 
 School: *Etec de Araçatuba*
