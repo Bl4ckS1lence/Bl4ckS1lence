@@ -1,7 +1,7 @@
 # Nícolas Monteiro Coulter de Almeida
 
-### Description:
-Name on GitHub: Bl4ckS1lence
+### My Description:
+Nickname on GitHub: Bl4ckS1lence
 
 Age: 17
 
@@ -11,6 +11,6 @@ School: *Etec de Araçatuba*
 
 Abilities: Fast learn, memorization and good english
 
-### Dreams:
+### My Dreams:
 
-Trying to become an military, from Agulhas Negras, Or to know more about the Universe
+Trying to become an military, from Agulhas Negras, or to know more about the Universe
