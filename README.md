@@ -7,7 +7,7 @@ Age: 17
 
 Lives in: Brazil, Araçatuba
 
-Hobbies: Playing games, Learning English and Astronomy, Workout
+Hobbies: Playing games, Learning English and Astronomy, I go to the gym
 
 School: *Etec de Araçatuba*
 
