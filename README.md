@@ -5,12 +5,16 @@ Nickname on GitHub: Bl4ckS1lence
 
 Age: 17
 
-Hobbis: Playing games, Learning English and Astronomy, Workout
+Hobbies: Playing games, Learning English and Astronomy, Workout
 
 School: *Etec de Araçatuba*
 
-Abilities: Quick Learning, Memorization and Good English
+Abilities: Quick Learning, Good Memorization and Good English
 
 ### My Dreams:
 
 Trying to become an military, from Agulhas Negras, or to know more about the Universe
+
+## Social Medias:
+
+Youtube: https://www.youtube.com/@mr.v0id710
